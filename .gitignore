@@ -1,0 +1,13 @@
+/target/
+/.settings/
+.settings/
+/.classpath
+/.project
+/.idea
+/overlays
+*.iml
+/bin/
+/src/main/resources/logback.xml
+.factorypath
+.classpath
+.settings
