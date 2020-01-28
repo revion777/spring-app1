@@ -4,9 +4,8 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="testBean"
-          class="com.revion.TestBean">
-        <constructor-arg value="Max"/>
+    <bean id="musicBean"
+          class="com.revion.RockMusic">
     </bean>
 
 </beans>
